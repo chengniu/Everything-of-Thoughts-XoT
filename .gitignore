@@ -11,3 +11,5 @@ checkpoints/
 # For PyCharm users
 .idea/
 
+xot_mcts/logs/game24_train.log
+.vscode/launch.json
